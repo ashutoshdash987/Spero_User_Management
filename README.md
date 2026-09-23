@@ -72,7 +72,7 @@ and press **Enter**.
 1. On the left sidebar, click on your newly created database **`ci3_user_management`**.
 2. Click on the **Import** tab in the top navigation bar.
 3. Click **Choose File** (or *Browse*).
-4. Navigate to your project folder: `C:\xampp\htdocs\ci3_project\` and select the **`database.sql`** file.
+4. Navigate to your project folder: `C:\xampp\htdocs\ci3_project\` and select the **`ci3_user_management.sql`** file.
 5. Scroll down to the bottom and click **Import** (or **Go**).
 6. You should see a green success message: *"Import has been successfully finished."*
 ---
